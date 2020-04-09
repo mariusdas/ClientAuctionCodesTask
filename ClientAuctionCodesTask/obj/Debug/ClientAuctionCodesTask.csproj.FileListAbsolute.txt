@@ -1,0 +1,9 @@
+C:\Users\Marius\source\repos\ClientAuctionCodesTask\ClientAuctionCodesTask\bin\Debug\ClientAuctionCodesTask.exe.config
+C:\Users\Marius\source\repos\ClientAuctionCodesTask\ClientAuctionCodesTask\bin\Debug\ClientAuctionCodesTask.exe
+C:\Users\Marius\source\repos\ClientAuctionCodesTask\ClientAuctionCodesTask\bin\Debug\ClientAuctionCodesTask.pdb
+C:\Users\Marius\source\repos\ClientAuctionCodesTask\ClientAuctionCodesTask\obj\Debug\ClientAuctionCodesTask.csproj.CoreCompileInputs.cache
+C:\Users\Marius\source\repos\ClientAuctionCodesTask\ClientAuctionCodesTask\obj\Debug\ClientAuctionCodesTask.exe
+C:\Users\Marius\source\repos\ClientAuctionCodesTask\ClientAuctionCodesTask\obj\Debug\ClientAuctionCodesTask.pdb
+C:\Users\Marius\source\repos\ClientAuctionCodesTask\ClientAuctionCodesTask\bin\Debug\AuctionCodes.txt
+C:\Users\Marius\source\repos\ClientAuctionCodesTask\ClientAuctionCodesTask\bin\Debug\CardNumbers.txt
+C:\Users\Marius\source\repos\ClientAuctionCodesTask\ClientAuctionCodesTask\bin\Debug\ProductCodes.txt
